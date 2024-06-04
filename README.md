@@ -1,2 +1,1 @@
-# First_repo
-My first proper repository
+[Demo](https://raphaelkottakal.github.io/sinewave/)
